@@ -1,0 +1,53 @@
+header {
+  margin: 5px;
+  padding: 5px;
+
+}
+footer {
+  margin: 15px;
+  padding: 5px;
+}
+
+main {
+  background-color: #DDA8A8;
+  margin: 15px;
+  padding: 5px
+}
+.navbar-brand {
+
+  font-size: 15px;
+  font-weight: 100;
+}
+
+.nav-link, .dropdown-item {
+  font-size: 15px;
+  font-weight: 500;
+  text-transform: uppercase;
+
+}
+
+nav li {
+  padding: 5px ;
+}
+
+nav li.active, nav li.active: begin {
+
+  border-radius: 0px;
+}
+
+body {
+  background-image: url("https://i.pinimg.com/236x/a8/65/d9/a865d9ea906aec6ecfb31cdae706202b.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  text-shadow: 2px 2px 3px #DDA8A8
+}
+
+a, h3,  br {
+  font-family: 'Pangolin', cursive;
+  color: #BA8585
+}
+
+b, h4 {
+  color: white;
+  font-family: 'Raleway', sans-serif;
+}
